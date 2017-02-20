@@ -1,4 +1,4 @@
-# sprockets
+# sprockets - the _best_ gears
 
 My new project
 
