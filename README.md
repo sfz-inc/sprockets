@@ -1,4 +1,4 @@
-# sprockets - absulutely the _best_ gears
+# sprockets - absolutely the _best_ gears
 
 My new project
 
