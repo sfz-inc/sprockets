@@ -80,3 +80,15 @@ generator:
     - "root_package": "com.myorg"
     - "service_class_name": "MyService"
 
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170701090350"
+editor:
+  name: "SetArtifactVersionEditor"
+  group: "atomist"
+  artifact: "spring-team-handlers"
+  version: "0.6.0"
+  parameters:
+    - "desiredVersion": "1.0.2"
+
