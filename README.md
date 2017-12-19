@@ -1,4 +1,4 @@
-# sprockets - absolutely the _best_ gears, guaranteed. forever...
+# sprockets - absolutely the _best_ gears, guaranteed.
 
 My new project for fun
 
