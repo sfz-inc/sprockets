@@ -1,6 +1,6 @@
 # sprockets - absolutely the _best_ gears, guaranteed.
 
-My new project for fun fun fun
+My new project for fun fun fun fun
 
 
 This Spring Boot microservice is driven using Maven. To run locally
